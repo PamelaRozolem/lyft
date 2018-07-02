@@ -1,0 +1,44 @@
+.container{
+    display: flex;
+}
+.flex-end{
+    justify-content: flex-end;
+}
+
+.right{
+    justify-content: right;
+}
+
+.column{
+    flex-direction: column;
+}
+.row{
+    flex-direction: row;
+}
+
+.space-between{
+    justify-content: space-between;
+}
+
+
+.padding-20{
+    padding: 20px;
+}
+
+.box h3{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.box label{
+    font-size: 10px;
+}
+
+.no-margin{
+    margin: 0;
+}
+
+
+.margin-top-67{
+    margin-top: 67px;
+}

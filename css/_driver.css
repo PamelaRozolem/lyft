@@ -1,0 +1,54 @@
+ 
+section.driver {
+    width: 100%;
+    align-items: center;
+
+}
+
+.box-miles{
+    width: 433.1px;
+    height: 310.1px;
+    background: white;
+    padding: 64.1px;
+}
+
+.box-miles.column h1{
+    width: 300px;
+    font-size: 41px;
+    color:#76388e;
+}
+
+.box-miles.column p.sign-up{
+    font-size: 16.9px;
+    font-weight: bold;
+    color:#76388e;
+}
+
+.box-miles.column p.info{
+    font-size: 10px;
+}
+
+.box-miles.column input{
+    width: 360px;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-bottom: 1px solid #76388e;
+    margin-bottom: 30px;
+}
+
+.box-miles.column button{
+    background-color: #fa58bf;
+    width: 166px;
+    margin-bottom: 30px;
+    border: 1px solid #fa58bf;
+    border-radius: 10px;
+    padding: 15.4px;
+    font-size: 14px;
+    color: white;
+}
+
+.box-miles.column a{
+    color:#8995aa;
+    margin-left: 10px;
+}

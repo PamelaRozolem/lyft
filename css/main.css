@@ -1,0 +1,24 @@
+@import url("_utils.css");
+@import url("_menu-top.css");
+@import url("_driver.css");
+@import url("_ride.css");
+@import url("_footer.css");
+
+/*
+ * Estilos de tu proyecto
+ */
+
+ body{
+     font-size: 16px;
+     margin: 0;
+     padding: 0;
+     font-family: 'Montserrat', sans-serif;
+}
+
+ main.global{
+    background-image: url('../assets/images/hero.gif');
+    background-repeat: no-repeat;
+    background-size:100%;
+
+}
+

@@ -1,0 +1,55 @@
+header.bar-top{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+header.bar-top {
+   height: 118px;
+   width: 100%;
+}
+
+
+header img.logotipo{
+    width: 70px;
+    height: 49px;
+  
+    margin: 34px 0 0 155px;
+  }
+  
+  header nav ul{
+      list-style: none;
+      margin: 0;
+      padding: 0;
+  
+      display: flex;
+      flex-direction: row;
+  
+      margin: 35px 155px 0 0;
+  
+  }
+  
+  header nav ul li {
+      display: flex;
+      justify-items: center;  
+      justify-content: center;
+  }
+  
+  header nav ul li a {
+      text-decoration: none;
+      font-size: 20px;
+      padding: 10px;
+      color: white;
+  }
+  
+  header nav ul li button {
+    background: none;
+    width: 100px;
+    height: 47px;
+    font-size: 20px;
+    border: 1px solid white;
+    border-radius: 10px;
+    color: white;
+    margin-left:10px;
+  }
+  
